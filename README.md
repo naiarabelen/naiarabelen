@@ -1,9 +1,9 @@
 ## Hi there 👋
-### Soy Desarrolladora Full Stack con Java.
-#### Actualmente profundizando mis conocimientos de Javascript y React.
-✨Entusiasta
-💡Curiosa
-🎈Positiva
-🎭Creativa 
+### Soy Desarrolladora de Software.
+#### Preferencias en Backend con Java.
+✨Trabajo en equipo
+💡Responsable
+🎈Capacidad de adaptación
+🎭Comprometida y Responsable
 
 
