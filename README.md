@@ -1,6 +1,6 @@
 ## Hola 👋
-#### Desarrolladora Full Stack | Java | Jr
-#### Desarrolladora Java | Jr
+#### Full Stack Developer | Java | Jr
+#### Java Developer | Jr
 #### Salesforce Administrator | Trainee
 ✨Trabajo en equipo
 💡Responsable
