@@ -1,7 +1,6 @@
 ## Hola 👋
-#### Full Stack Developer | Java | Jr
-#### Java Developer | Jr
-#### Salesforce Administrator | Trainee
+#### Salesforce Administrator | QA Analyst | SSR
+#### Full Stack Developer | Java | Phyton | Trainee
 ✨Trabajo en equipo
 💡Responsable
 🎈Capacidad de adaptación
