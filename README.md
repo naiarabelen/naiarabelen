@@ -1,5 +1,5 @@
 ## Hola 👋
-#### Salesforce Administrator | QA Analyst | SSR
+#### Salesforce Administrator | QA | Consultora 
 #### Full Stack Developer | Java | Phyton | Trainee
 ✨Trabajo en equipo
 💡Responsable
